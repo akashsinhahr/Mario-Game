@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario Platformer",
+  "description": "A fully playable, highly polished Super Mario-style 2D platformer game featuring physics, power-ups, retro graphics, sound effects, and multi-level scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
